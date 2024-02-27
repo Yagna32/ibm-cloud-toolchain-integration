@@ -7,7 +7,7 @@ var products = [
     { id:1,name:'abc' },
     { id:2,name:'xya'},
     { id:3,name:'bnmafaf'},
-    { id:4,name:'ytyt'}
+    { id:4,name:'ytytaaf'}
 ];
 const port = process.env.PORT || 8080;
 app.use(express.json())
