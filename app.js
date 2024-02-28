@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 var app = express();
 var products = [
     { id:1,name:'abc' },
-    { id:2,name:'xya'},
+    { id:2,name:'xyhgga'},
     { id:3,name:'bnmafaf'},
     { id:4,name:'ytytaaf'}
 ];
