@@ -5,8 +5,8 @@ var bodyParser = require('body-parser');
 var app = express();
 var products = [
     { id:1,name:'abc' },
-    { id:2,name:'xyhgga'},
-    { id:3,name:'bnmafaf'},
+    { id:2,name:'xyh'},
+    { id:3,name:'bnmf'},
     { id:4,name:'ytytaaf'}
 ];
 const port = process.env.PORT || 8080;
